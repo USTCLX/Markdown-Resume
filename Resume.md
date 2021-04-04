@@ -18,7 +18,7 @@
          ·
          <span>
              <img src="assets/rss-solid.svg" width="16px" style="vertical-align:middle">
-             <a href="https://ustclx.github.io/" style="vertical-align:middle">My Blog</a>
+             <a href="https://ustclx.github.io/" style="vertical-align:middle">Blog</a>
          </span>
      </div>
  </center>
@@ -47,7 +47,7 @@
 
 - 携程计算机技术(上海)有限公司，酒店研发部门，资深软件工程师，2018.12 ~ 至今
 
-  携程是一个在线票务服务公司。工作期间，负责国际酒店业务前端应用的开发、维护和优化工作。
+  工作期间，负责国际站点酒店业务前端应用的开发、维护和优化工作。
 
   - 前端技术改造。在公司技改背景下，和团队同事使用 React 和 Koa 技术栈重新构建和迁移国际酒店的前端应用。实现了 CSR 和 SSR 的同构，多语言翻译方案，request 请求同构等。
   - 开发工具和组件库。提取 online 和 h5 公共工具和组件代码，使用 monorepo 方案统一开发和管理。通过 npm 包发布和使用。降低两端开发和维护成本。项目目前共维护约 30 个 npm package。
@@ -70,11 +70,11 @@
     <span style="vertical-align:middle">技能清单</span>
 </h2>
 
-- 熟悉 HTML/JavaScript/CSS；熟悉标准流式布局，有响应式开发经验；熟悉 LESS/SASS。
-- 熟悉 React 和 Koa 及其生态。有使用其开发 Web 应用的经验。并对性能优化和原理有一定理解。
+- 熟悉 HTML/JavaScript/CSS。熟悉标准流式布局，有响应式开发经验；熟悉 LESS/SASS。
+- 熟悉 React 和 Koa 及其生态，有使用其开发 Web 应用的经验，并对性能优化和原理有一定理解。
 - 熟悉使用 webpack 和其生态构建 web 应用的方法。熟悉使用 Jest 和 enzyme 编写单元测试。熟悉 Git 版本管理。
 - 使用过 Express 和 MongDB 开发 server 服务。使用过 Java 维护 BFF 服务。
-- 使用过 Canvas，DVA，Antd，Angular1 NWjs。
+- 使用过 Canvas、DVA、Antd、Angular1、NWjs。
 
 <h2 style="margin:16px 0 0 0;padding-bottom:3px;border-bottom:1px solid rgb(238, 238, 238)">
     <img src="assets/person-solid.svg"  width="26px"  style="vertical-align:middle">
@@ -82,5 +82,5 @@
 </h2>
 
 - 喜欢编程和 Web 技术。追求和思考编写更易维护和更易懂的代码。
-- 学习能力强，善于解决问题，喜欢分享
+- 学习能力强，善于解决问题，乐于分享。
 - 和同事相处融洽，适合团队工作。
