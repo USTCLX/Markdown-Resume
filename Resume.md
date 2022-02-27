@@ -29,7 +29,7 @@
 </h2>
 
 - 求职意向：前端开发工程师
-- 工作经验：4 年
+- 工作经验：5 年
 
 <h2 style="margin:16px 0 0 0;padding-bottom:3px;border-bottom:1px solid rgb(238, 238, 238)">
     <img src="assets/graduation-cap-solid.svg"  width="26px" style="vertical-align:middle">
@@ -45,7 +45,14 @@
     <span style="vertical-align:middle">工作经历</span>
 </h2>
 
-- 携程计算机技术(上海)有限公司，酒店研发部门，资深软件工程师，2018.12 ~ 至今
+- Shopee 信息科技(新加坡)有限公司，Engineering Infrastructure. Senior Engineer. 2021.08 ~ 至今
+
+  负责 Shopee 基础平台的前端研发工作
+
+  - 负责权限管理平台，服务器资源管理平台，服务发布和部署平台的前端研发。相关技术栈 React、Vue、NestJS。
+  - 参与微前端架构的开发和改进。
+
+- 携程计算机技术(上海)有限公司，酒店研发部门，资深软件工程师，2018.12 ~ 2021.08
 
   工作期间，负责 Trip.com 国际酒店业务前端应用的开发、维护和优化工作。
 
@@ -72,10 +79,10 @@
 </h2>
 
 - 熟悉 HTML/JavaScript/CSS。熟悉标准流式布局，有响应式开发经验；熟悉 LESS/SASS。
-- 熟悉 React 和 Koa 及其生态，有使用其开发 Web 应用的经验，并对性能优化和原理有一定理解。
-- 熟悉使用 webpack 和其生态构建 web 应用的方法。熟悉使用 Jest 和 enzyme 编写单元测试。熟悉 Git 版本管理。
+- 熟悉 ReactJS 、VueJS、KoaJS、NestJS 及其生态。开发和维护过大型 Web 应用，并对性能优化和原理有一定理解。
+- 熟悉 webpack 使用、配置及其生态。熟悉使用 Jest 和 enzyme 编写单元测试。熟悉 Git 版本管理。
 - 使用过 Express 和 MongDB 开发 server 服务。使用过 Java 维护 BFF 服务。
-- 使用过 Canvas、DVA、Antd、Angular1、NWjs、Bootstrap。
+- 使用过 Canvas、DVA、Antd、Angular、NWjs、Bootstrap。
 
 <h2 style="margin:16px 0 0 0;padding-bottom:3px;border-bottom:1px solid rgb(238, 238, 238)">
     <img src="assets/person-solid.svg"  width="26px"  style="vertical-align:middle">
