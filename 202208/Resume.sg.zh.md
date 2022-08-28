@@ -2,22 +2,22 @@
      <h1>李翔</h1>
      <div>
          <span>
-             <img src="assets/phone-solid.svg" width="16px" style="vertical-align:middle">
+             <img src="../assets/phone-solid.svg" width="16px" style="vertical-align:middle">
              <span style="vertical-align:middle">80399503</span>
          </span>
          ·
          <span>
-             <img src="assets/envelope-solid.svg" width="16px" style="vertical-align:middle">
+             <img src="../assets/envelope-solid.svg" width="16px" style="vertical-align:middle">
              <span style="vertical-align:middle">herrycodelee@gmail.com</span>
          </span>
          ·
          <span>
-             <img src="assets/github-brands.svg" width="16px" style="vertical-align:middle">
+             <img src="../assets/github-brands.svg" width="16px" style="vertical-align:middle">
              <a href="https://github.com/USTCLX" style="vertical-align:middle">USTCLX</a>
          </span>
          ·
          <span>
-             <img src="assets/rss-solid.svg" width="16px" style="vertical-align:middle">
+             <img src="../assets/rss-solid.svg" width="16px" style="vertical-align:middle">
              <a href="https://ustclx.github.io/" style="vertical-align:middle">Blog</a>
          </span>
      </div>
@@ -32,7 +32,6 @@
 - 工作经验：5 年
 
 <h2 style="margin:16px 0 0 0;padding-bottom:3px;border-bottom:1px solid rgb(238, 238, 238)">
-    <!-- <img src="assets/graduation-cap-solid.svg"  width="26px" style="vertical-align:middle"> -->
     <span style="vertical-align:middle">教育经历</span>
 </h2>
 
@@ -40,7 +39,6 @@
 - 学士，南京邮电大学，自动化专业，2010~2014
 
 <h2 style="margin:16px 0 0 0;padding-bottom:3px;border-bottom:1px solid rgb(238, 238, 238)">
-    <!-- <img src="assets/briefcase-solid.svg"  width="26px" style="vertical-align:middle"> -->
     <span style="vertical-align:middle">工作经历</span>
 </h2>
 
@@ -66,14 +64,13 @@
   - 维护 BFF 项目。 维护基于 Java Spring 的 BFF(Backend for frontend) 项目。
   - 技术分享。分享和讨论遇一些新的技术和遇到的问题和解决方案。
 
-- 苏州速显微电子科技有限公司，研发工程师，2017.03 ~ 2018.11
+- 速显微电子科技(苏州)有限公司，研发工程师，2017.03 ~ 2018.11
 
   清华汽车研究院下属的显示芯片及解决方案创业公司。负责基于浏览器的低代码、图形化开发工具产品的开发和维护。相关技术栈 Angular、Canvas API、Express、MongoDB。
 
   - 负责解决方案中图形化 WebIDE 的开发和维护工作。参考 Keynote 和 PowerPoint 的产品设计，使用 Canvas API 和 FabricJS 实现图形化 UI 的图形化编辑。
 
 <h2 style="margin:16px 0 0 0;padding-bottom:3px;border-bottom:1px solid rgb(238, 238, 238)">
-    <!-- <img src="assets/tools-solid.svg"  width="26px"  style="vertical-align:middle"> -->
     <span style="vertical-align:middle">技能清单</span>
 </h2>
 
@@ -84,7 +81,6 @@
 - 使用过 Canvas、DVA、Antd、Angular、Bootstrap、uni-app 等工具开发过前端应用。
 
 <h2 style="margin:16px 0 0 0;padding-bottom:3px;border-bottom:1px solid rgb(238, 238, 238)">
-    <!-- <img src="assets/person-solid.svg"  width="26px"  style="vertical-align:middle"> -->
     <span style="vertical-align:middle">自我评价</span>
 </h2>
 
