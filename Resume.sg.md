@@ -24,7 +24,7 @@
  </center>
 
 <h2 style="margin:16px 0 0 0;padding-bottom:3px;border-bottom:1px solid rgb(238, 238, 238)">
-    <img src="assets/info-circle-solid.svg"  width="26px" style="vertical-align:middle">
+    <!-- <img src="assets/info-circle-solid.svg"  width="26px" style="vertical-align:middle"> -->
     <span style="vertical-align:middle">求职信息</span>
 </h2>
 
@@ -32,16 +32,15 @@
 - 工作经验：5 年
 
 <h2 style="margin:16px 0 0 0;padding-bottom:3px;border-bottom:1px solid rgb(238, 238, 238)">
-    <img src="assets/graduation-cap-solid.svg"  width="26px" style="vertical-align:middle">
+    <!-- <img src="assets/graduation-cap-solid.svg"  width="26px" style="vertical-align:middle"> -->
     <span style="vertical-align:middle">教育经历</span>
 </h2>
 
 - 硕士，中国科学技术大学，软件工程专业，2014~2017
 - 学士，南京邮电大学，自动化专业，2010~2014
-- 英语 CET6
 
 <h2 style="margin:16px 0 0 0;padding-bottom:3px;border-bottom:1px solid rgb(238, 238, 238)">
-    <img src="assets/briefcase-solid.svg"  width="26px" style="vertical-align:middle">
+    <!-- <img src="assets/briefcase-solid.svg"  width="26px" style="vertical-align:middle"> -->
     <span style="vertical-align:middle">工作经历</span>
 </h2>
 
@@ -49,8 +48,8 @@
 
   负责 Shopee 基础平台的前端研发工作。相关技术栈 React、Typescript、Ant Design、Vue、NestJS。
 
-  - 负责服务器资源管理平台(Server Management, Job Platform)，权限管理平台(Shopee Access Management)，CronJob 平台的前端开发和维护
-  - 重构服务器资源管理平台的代码。包括改写 class 组件，升级 ts，升级依赖，优化开发环境配置等。
+  - 负责服务器管理平台(Server Management, Job Platform)，权限管理平台(Shopee Access Management)，CronJob 平台的前端开发和维护
+  - 重构服务器管理平台的代码。包括改写 class 组件和 js 文件，依赖升级，优化开发环境配置等。
   - 迁移服务器资源管理平台到基于微前端架构的统一框架内（WIP）。
   - 参与 Infrastructure 前端大组内前端代码风格的定制和讨论，形成 style guides 和 lint 规则。
 
@@ -74,7 +73,7 @@
   - 负责解决方案中图形化 WebIDE 的开发和维护工作。参考 Keynote 和 PowerPoint 的产品设计，使用 Canvas API 和 FabricJS 实现图形化 UI 的图形化编辑。
 
 <h2 style="margin:16px 0 0 0;padding-bottom:3px;border-bottom:1px solid rgb(238, 238, 238)">
-    <img src="assets/tools-solid.svg"  width="26px"  style="vertical-align:middle">
+    <!-- <img src="assets/tools-solid.svg"  width="26px"  style="vertical-align:middle"> -->
     <span style="vertical-align:middle">技能清单</span>
 </h2>
 
@@ -85,7 +84,7 @@
 - 使用过 Canvas、DVA、Antd、Angular、Bootstrap、uni-app 等工具开发过前端应用。
 
 <h2 style="margin:16px 0 0 0;padding-bottom:3px;border-bottom:1px solid rgb(238, 238, 238)">
-    <img src="assets/person-solid.svg"  width="26px"  style="vertical-align:middle">
+    <!-- <img src="assets/person-solid.svg"  width="26px"  style="vertical-align:middle"> -->
     <span style="vertical-align:middle">自我评价</span>
 </h2>
 
