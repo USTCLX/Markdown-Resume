@@ -58,7 +58,7 @@
 
 - Thorsianway Suzhou Limited, Software Engineer, Mar 2017 - Nov 2018
 
-  Thorsianway is a start-up enterprise focusing on the design of automotive LCD instrument display control chips and systems.
+  Thorsianway is a start-up enterprise under Tsinghua University Suzhou Automotive Research Institute which focusing on the design of automotive LCD instrument display control chips and systems.
   Responsible for the development and maintenance of browser-based low code, graphical WebIDE product which using Angular、Canvas API、Express、MongoDB.
 
   - Responsible for the development and maintenance of the graphical WebIDE. With reference to Keynote and PowerPoint product design, use Canvas API and FabricJS to achieve graphical editing of graphical UI.
