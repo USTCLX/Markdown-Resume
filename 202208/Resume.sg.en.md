@@ -58,10 +58,13 @@
 
 - Thorsianway Suzhou Limited, Software Engineer, Mar 2017 - Nov 2018
 
-  Thorsianway is a start-up enterprise under Tsinghua University Suzhou Automotive Research Institute which focusing on the design of automotive LCD instrument display control chips and systems.
+  > Thorsianway is a start-up enterprise under Tsinghua University Suzhou Automotive Research Institute which focusing on the design of automotive LCD instrument display control chips and systems.
+
   Responsible for the development and maintenance of browser-based low code, graphical WebIDE product which using Angular、Canvas API、Express、MongoDB.
 
-  - Responsible for the development and maintenance of the graphical WebIDE. With reference to Keynote and PowerPoint product design, use Canvas API and FabricJS to achieve graphical editing of graphical UI.
+  - Responsible for the fullstack development and maintenance of the graphical WebIDE.
+  - With reference to Keynote and PowerPoint product design, use Canvas API and FabricJS to achieve graphical editing of graphical UI.
+  - Use ExpressJS and MongoDB to build the application server.
 
 <h2 style="margin:16px 0 0 0;padding-bottom:3px;border-bottom:1px solid rgb(238, 238, 238)">
     <span style="vertical-align:middle">Skills</span>
@@ -71,7 +74,7 @@
 - Familiar with ReactJS, VueJS, KoaJS, NestJS and their ecology. Have developed and maintained large scale Web applications, and have some understanding of performance optimization and principles.
 - Familiar with Webpack usage, configuration, and its ecology. Familiar with writing unit tests using Jest and enzyme. Familiar with Git.
 - Used Express and MongDB to develop the Server service. Used Java to maintain the BFF server.
-- Used Canvas, DVA, Antd, Angular, Bootstrap, Uni-App and other tools to develop front-end applications.
+- Used Canvas, Antd, Angular, Bootstrap, Uni-App and other tools to develop front-end applications.
 
 <h2 style="margin:16px 0 0 0;padding-bottom:3px;border-bottom:1px solid rgb(238, 238, 238)">
     <span style="vertical-align:middle">Self Assessment</span>

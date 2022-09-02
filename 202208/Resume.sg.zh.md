@@ -66,10 +66,13 @@
 
 - 速显微电子科技(苏州)有限公司，研发工程师，2017.03 ~ 2018.11
 
-  速显微是清华汽车研究院下属的一家专注汽车液晶仪表显示控制芯片及系统设计的创业公司。
-  负责基于浏览器的低代码、图形化开发工具产品的开发和维护。相关技术栈 AngularJS、Canvas API、ExpressJS、MongoDB。
+  > 速显微是清华汽车研究院下属的一家专注汽车液晶仪表显示控制芯片及系统设计的创业公司。
 
-  - 负责解决方案中图形化 WebIDE 的开发和维护工作。参考 Keynote 和 PowerPoint 的产品设计，使用 Canvas API 和 FabricJS 实现图形化 UI 的图形化编辑。
+  负责基于浏览器的低代码、图形化开发工具产品的全栈开发和维护。相关技术栈 AngularJS、Canvas API、ExpressJS、MongoDB。
+
+  - 负责解决方案中图形化 WebIDE 的全栈开发和维护工作。
+  - 参考 Keynote 和 PowerPoint 的产品设计，使用 Canvas API 和 FabricJS 实现图形化 UI 的图形化编辑。
+  - 使用 ExpressJS 和 MongoDB 搭建应用服务器。
 
 <h2 style="margin:16px 0 0 0;padding-bottom:3px;border-bottom:1px solid rgb(238, 238, 238)">
     <span style="vertical-align:middle">技能清单</span>
@@ -79,7 +82,7 @@
 - 熟悉 ReactJS、VueJS、KoaJS、NestJS 及其生态。开发和维护过大型 Web 应用，并对性能优化和原理有一定理解。
 - 熟悉 Webpack 使用、配置及其生态。熟悉使用 Jest 和 enzyme 编写单元测试。熟悉 Git 版本管理。
 - 使用过 Express 和 MongDB 开发 Server 服务。使用过 Java 维护 BFF 服务。
-- 使用过 Canvas、DVA、Antd、Angular、Bootstrap、uni-app 等工具开发过前端应用。
+- 使用过 Canvas、Antd、Angular、Bootstrap、uni-app 等工具开发过前端应用。
 
 <h2 style="margin:16px 0 0 0;padding-bottom:3px;border-bottom:1px solid rgb(238, 238, 238)">
     <span style="vertical-align:middle">自我评价</span>
